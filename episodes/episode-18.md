@@ -1,14 +1,26 @@
-# Выпуск №18. 30 мая 2016
+# Выпуск №18
 
-Статьи для новичков, Reset или Normalize, jQuery и Bootstrap для дилетантов и админок, атомарный CSS, программирование на CSS, сервис-воркеры в Safari.
+30 мая 2016: Статьи для новичков, Reset или Normalize, jQuery и Bootstrap для дилетантов и админок, атомарный CSS, программирование на CSS, сервис-воркеры в Safari.
 
 - Ольга Алексашенко
 - Вадим Макеев
 - Алексей Симоненко
 
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-18), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+## Содержание
 
-## 00:13 События
+- 00:00:13 События
+- 00:02:34 Статьи для новичков
+- 00:06:38 Reset против Normalize
+- 00:13:29 JS для начинающих
+- 00:15:33 Дилетанты и профессионалы
+- 00:25:20 Зачем разбираться в SVG
+- 00:29:25 Атомарный CSS
+- 00:37:45 Программирование на CSS
+- 00:49:60 Сервис-воркеры в Safari
+
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
+
+## События
 
 - [Frontend Conf](http://frontendconf.ru/)
 - [ScotlandJS](http://scotlandjs.com/)
@@ -17,33 +29,33 @@
 - [Встреча с докладчиками](https://vk.com/spb_frontend_meetup_160530)
 - [Fronteers](https://fronteers.nl/congres/2016)
 
-## 02:34 Статьи для новичков
+## Статьи для новичков
 
 - [От нуля до героя фронтенда, часть 2](https://medium.com/p/25f19e56eb29)
 - [Хорошие и плохие CSS-практики для начинающих](https://medium.com/p/619289ce8bae)
 - [Михаил Дубаков](https://www.ozon.ru/person/1099694/)
 - [Бесплатный курс Академии по SVG](https://htmlacademy.ru/courses/130)
 
-## 06:38 Reset против Normalize
+## Reset против Normalize
 
 - [Reset.css](http://meyerweb.com/eric/tools/css/reset/)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - [Sublime Autoprefixer](https://github.com/sindresorhus/sublime-autoprefixer)
 - [Atom Autoprefixer](https://github.com/sindresorhus/atom-autoprefixer)
 
-## 13:29 JS для начинающих
+## JS для начинающих
 
-## 15:33 Дилетанты и профессионалы
+## Дилетанты и профессионалы
 
 - [jQuery и Bootstrap: расставляем точки над «i»](http://frontender.info/whats-wrong-with-jquery-and-bootstrap/)
 - [Мобильный Твиттер](https://mobile.twitter.com/)
 - [UnCSS](https://github.com/giakki/uncss)
 
-## 25:20 Зачем разбираться в SVG
+## Зачем разбираться в SVG
 
 - [Бесплатный курс Академии по SVG](https://htmlacademy.ru/courses/130)
 
-## 29:25 Атомарный CSS
+## Атомарный CSS
 
 - [Universal.css](https://github.com/marmelab/universal.css#readme)
 - [OrnaJS](http://ornaorg.github.io/)
@@ -51,11 +63,11 @@
 - [Flex Layout Attribute](http://progressivered.com/fla/)
 - [Material Design Lite](https://getmdl.io/)
 
-## 37:45 Программирование на CSS
+## Программирование на CSS
 
 - [CSS When/Else Rules](https://tabatkins.github.io/specs/css-when-else/)
 
-## 49:60 Сервис-воркеры в Safari
+## Сервис-воркеры в Safari
 
 - [Safari TP5](https://webkit.org/blog/6415/release-notes-for-safari-technology-preview-5/)
 - [Service Workers 101](https://github.com/delapuente/service-workers-101#readme)

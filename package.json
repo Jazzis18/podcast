@@ -1,11 +1,23 @@
 {
   "private": true,
   "scripts": {
-    "test": "yaspeller ./episodes",
-    "demark": "demarked ./episodes/episode-$NUM.md"
+    "test": "yaspeller episodes",
+    "text": "demarked",
+    "html": "marked",
+    "feed": "node feed",
+    "validate:audio": "node feed/validation/audioExists"
   },
   "dependencies": {
-    "demarked": "^0.0.3",
-    "yaspeller": "^3.0.0"
+    "demarked": "0.0.4",
+    "fs": "0.0.2",
+    "https": "^1.0.0",
+    "marked": "^0.3.6",
+    "moment-timezone": "^0.5.14",
+    "pretty-data": "^0.40.0",
+    "showdown": "^1.8.5",
+    "yaspeller": "^4.0.3"
+  },
+  "devDependencies": {
+    "git-hooks": "^1.1.10"
   }
 }

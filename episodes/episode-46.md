@@ -1,52 +1,64 @@
-# Выпуск №46. 12 декабря 2016
+# Выпуск №46
 
-Новинки Edge и Safari, где учиться, сообщения коммитов, анимация и рендеринг, CSS в CSS, хайп и прогрессивное улучшение.
+12 декабря 2016: Новинки Edge и Safari, где учиться, сообщения коммитов, анимация и рендеринг, CSS в CSS, хайп и прогрессивное улучшение.
 
 - Сергей Бережной
 - Вадим Макеев
 - Алексей Симоненко
 
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-46), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+## Содержание
 
-## 00:19 События
+- 00:00:19 События
+- 00:04:30 Новинки Edge
+- 00:11:27 Safari TP 19
+- 00:26:49 Где учиться
+- 00:35:58 Сообщения коммитов
+- 00:42:59 Анимация и рендеринг
+- 00:49:54 CSS в CSS
+- 01:02:52 Хайп
+- 01:12:24 Прогрессивное улучшение
+
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
+
+## События
 
 - [Я.Субботник по фронтенду](https://events.yandex.ru/events/yasubbotnik/10-dec-2016/)
 - [HolyJS в Москве 11 декабря](http://holyjs.ru/)
 - [Билеты на JSConf](http://2017.jsconf.eu/news/2016/11/29/tickets/)
 - [Билеты на CSSConf](http://blog.cssconf.eu/2016/12/07/cssconfeu-tickets-2017/)
 
-## 04:30 Новинки Edge
+## Новинки Edge
 
 - [Edge on Windows 10 build 14986](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/desktop/14986/)
 
-## 11:27 Safari TP19
+## Safari TP19
 
-- [Release Notes for Safari TP19](https://webkit.org/blog/7093/release-notes-for-safari-technology-preview-19/)
+- [Release Notes for Safari TP 19](https://webkit.org/blog/7093/release-notes-for-safari-technology-preview-19/)
 - [Не гзипом единым, Георгий Мостоловица](https://events.yandex.ru/lib/talks/3351/)
 
-## 26:49 Где учиться
+## Где учиться
 
 - [Куда пойти учиться программисту](https://vc.ru/p/csssr-programming)
 
-## 35:58 Сообщения коммитов
+## Сообщения коммитов
 
 - [Как писать сообщения коммитов](http://frontiermag.ru/commit-message.html)
 
-## 42:59 Анимация и рендеринг
+## Анимация и рендеринг
 
 - [Анимации на GPU: делаем это правильно](https://habrahabr.ru/company/odnoklassniki/blog/313978/)
 
-## 49:54 CSS в CSS
+## CSS в CSS
 
 - [Virtual CSS with Styletron](https://ryantsao.com/blog/virtual-css-with-styletron)
 - [Styled JSX](https://github.com/zeit/styled-jsx)
 - [A new world: writing CSS in ClojureScript and life after Sass](https://medium.com/p/bdf5bc80a24f)
 
-## 01:02:52 Хайп
+## Хайп
 
 - [Hype Driven Development](https://habrahabr.ru/company/edison/blog/316668/)
 
-## 01.12:24 Прогрессивное улучшение
+## Прогрессивное улучшение
 
 - [The Case Against PE’s Flimsy Moral Foundation](https://www.viget.com/articles/the-case-against-progressive-enhancements-flimsy-moral-foundation)
 - [Insert Clickbait Headline About PE Here](https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/)
